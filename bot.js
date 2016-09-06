@@ -43,3 +43,5 @@ controller.hears(['hello', 'hi'], 'message_received', function(bot, message) {
         }
     });
 });
+
+// comienzo del bot :)
